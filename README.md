@@ -1,9 +1,10 @@
 ## Hi there 💌
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindy1404hsieh&layout=compact&langs_count=10&exclude_repo=Ciencia-de-Datos&theme=onedark)
+# 📫 How to reach me:
+chsieh@fi.uba.ar
 <!--
-**cindy1404hsieh/cindy1404hsieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+synthwave
+gruvbox
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
