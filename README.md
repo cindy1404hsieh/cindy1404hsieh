@@ -1,7 +1,9 @@
-## Hi there 💌
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindy1404hsieh&layout=compact&langs_count=10&exclude_repo=Ciencia-de-Datos&theme=onedark)
-# 📫 How to reach me:
-chsieh@fi.uba.ar
+- 💌Hi there I’m Cindy Hsieh.
+- 🚀 I’m currently studying Software Engineering at the University of Buenos Aires.
+- 📫 How to reach me: chsieh@fi.uba.ar
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cindy1404hsieh&layout=compact&langs_count=10&exclude_repo=Ciencia-de-Datos&theme=onedark)
+
 <!--
 synthwave
 gruvbox
